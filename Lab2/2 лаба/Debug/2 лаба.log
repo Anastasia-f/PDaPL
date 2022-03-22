@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\anast\Desktop\прока с++\2 лаба\2 лаба\Source.cpp(51,6): warning C4101: choice: неиспользованная локальная переменная
+C:\Users\anast\Desktop\прока с++\2 лаба\2 лаба\Source.cpp(52,6): warning C4101: number: неиспользованная локальная переменная
+  2 лаба.vcxproj -> C:\Users\anast\Desktop\прока с++\2 лаба\Debug\2 лаба.exe
