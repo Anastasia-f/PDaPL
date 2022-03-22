@@ -1,0 +1,56 @@
+Number_Bus: 4
+Type_Bus: 2
+Destination: Brest
+
+Departure_time: 
+Hour: 16
+Minute: 15
+Second: 15
+
+Arrival_time: 
+Hour: 19
+Minute: 20
+Second: 15
+
+Number_Bus: 3
+Type_Bus: 3
+Destination: Grodno
+
+Departure_time: 
+Hour: 15
+Minute: 15
+Second: 15
+
+Arrival_time: 
+Hour: 20
+Minute: 15
+Second: 15
+
+Number_Bus: 2
+Type_Bus: 4
+Destination: Mogilev
+
+Departure_time: 
+Hour: 15
+Minute: 15
+Second: 15
+
+Arrival_time: 
+Hour: 19
+Minute: 15
+Second: 15
+
+Number_Bus: 1
+Type_Bus: 5
+Destination: Gomel
+
+Departure_time: 
+Hour: 15
+Minute: 15
+Second: 15
+
+Arrival_time: 
+Hour: 21
+Minute: 16
+Second: 15
+
